@@ -1,0 +1,114 @@
+/* side bar */
+.side-title {
+    font-family: "Bahnschrift Condensed";
+    color:#777   ;
+    margin-left: 120px;
+    position: absolute;
+    top: 230px;
+    font-size: 18px;    
+}
+.side-bar {
+    position: absolute;
+    top: 260px;
+    margin-left: 110px;
+    width: 250px;
+}
+.side-bar li {
+    display: block;
+    padding-bottom: 7px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-bottom: solid 1px;
+    border-bottom-color: #777;
+}
+.side-bar .last-element {
+    border: none;
+}
+.side-bar li a {
+    text-decoration:none;
+    color: #21618C   ;
+    font-family: "Bahnschrift Condensed";
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+    transition: 0.3s;
+    display: block;
+}
+.side-bar li a:hover {
+    color: #f68e1e;
+}
+.page-content {
+    margin-left: 420px;
+}
+.title1 {
+    position: absolute;
+    top:230px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #e71839;
+}
+.p1 {
+    position: relative;
+    top: 270px;
+    width: 830px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656 ;
+}
+.model {
+    color: #21618C ;
+}
+.image {
+   position: relative;
+   top: 290px;    
+}
+img {
+    height: 580px;
+    width: 830px;
+}
+button {
+    position: absolute;
+    height: 40px;
+    width: 260px;
+    background:#f68e1e;
+    border: none;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+}
+.buttons1 {
+    position: relative;
+    top: 320px;
+}
+.buttons2 {
+    position: relative;
+    top: 370px;
+}
+.buttons3 {
+    position: relative;
+    top: 420px;
+}
+.btn2 {
+    position: absolute;
+    left: 280px;
+}
+.btn3 {
+    position: absolute;
+    left: 560px;
+}
+.buttons2 .btn1, .buttons2 .btn2, .buttons2 .btn3 {
+    background:#21618C; 
+}
+.buttons3 .btn1, .buttons3 .btn2 {
+    background:#21618C; 
+}
+.buttons3 .btn3 {
+    background:#008752; 
+}
+.btn1:hover, .btn2:hover, .btn3:hover {
+    background: #adc429;
+}
+.footer {
+    position: relative;
+    top: 480px;
+    left: 100px;
+}

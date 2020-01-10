@@ -1,0 +1,172 @@
+*{
+    margin:0;
+    padding: 0;
+}
+/* header */
+.logo {
+    position: absolute;
+    top: 10px;
+    margin-left: 100px;
+    height: 110px;
+    width:300px;
+}
+.btn {
+    position: absolute;
+    top: 40px;
+    right: 120px;
+    background: #f68e1e;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    height: 60px;
+    width: 130px;
+    font-weight: 600;
+    font-size: 24px;
+    cursor: pointer;
+    font-family:"Bahnschrift Condensed";
+}
+.btn:hover {
+    background: #7F8C8D;
+}
+
+/* nvigation bar */
+nav {
+    height: 70px;
+    width: 84%;
+    background: #00539e;
+    margin-left: 100px;
+    position: absolute;
+    top: 140px;    
+}
+.nav-bar li {
+    display:inline-block;
+    line-height: 0;
+}
+.nav-bar li a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none; 
+    font-size: 24px;
+    padding: 35px;
+    display: block;
+    font-family:"Bahnschrift Condensed"; 
+}
+.nav-bar li a:hover {
+    background:#f68e1e;
+    display: block;
+}
+.footer {
+    margin-bottom: 30px;
+    height: 90px;
+    width: 85%;
+    background: #00539E;
+}
+.facebook {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    height: 40px;
+    width: 40px;  
+}
+.facebook:hover {
+   background: #00539E;
+   opacity:0.5;
+   transition: 0.5s;
+}
+.twitter {
+    position: absolute;
+    left: 70px;
+    top: 20px;
+    height: 40px;
+    width: 40px; 
+    border-radius: 5px;
+}
+.twitter:hover {
+   background: #00539E;
+   opacity:0.5;
+   transition: 0.5s;
+}
+.pinterest {
+    position: absolute;
+    left: 120px;
+    top: 20px;
+    height: 40px;
+    width: 40px; 
+    border-radius: 5px;
+}
+.pinterest:hover {
+   background: #00539E;
+   opacity:0.5;
+   transition: 0.5s;
+}
+.youtube {
+    position: absolute;
+    left: 170px;
+    top: 20px;
+    height: 40px;
+    width: 40px; 
+    border-radius: 5px;
+}
+.youtube:hover {
+   background: #00539E;
+   opacity:0.5;
+   transition: 0.5s;
+}
+.amazon {
+    position: absolute;
+    left: 220px;
+    top: 20px;
+    height: 40px;
+    width: 40px; 
+    border-radius: 5px;
+}
+.amazon:hover {
+   background: #00539E;
+   opacity:0.5;
+   transition: 0.5s;
+}
+.details {
+    position: absolute;
+    left: 470px;
+    top: 20px;
+    color: white;
+    font-family: 'Oswald', sans-serif;   
+}
+.txt {
+    position: absolute;
+    top: 20px;
+    left:50px;
+}
+.phone {
+    text-decoration: none;
+    color: white; 
+}
+.phone:hover {
+    text-decoration: underline;
+    background: #00539E;
+    opacity:0.5;
+    transition: 0.5s; 
+}
+.box {
+    position: absolute;
+    right: 100px;
+    top: 20px;
+    height: 40px;
+    width:200px;
+}
+.search {
+    position: absolute;
+    right: 60px;
+    top: 20px;
+    height: 43px;
+    width: 40px;
+    background: #f68e1e;
+    border: none;
+}
+.icon{
+    height: 15px;
+    width: 15px;
+    position: absolute;
+    left: 10px;
+    top: 15px;
+}

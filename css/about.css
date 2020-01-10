@@ -1,0 +1,175 @@
+/* side bar */
+.side-title {
+    font-family: "Bahnschrift Condensed";
+    color:#777   ;
+    margin-left: 120px;
+    position: absolute;
+    top: 230px;
+    font-size: 18px;    
+}
+.side-bar {
+    position: absolute;
+    top: 260px;
+    margin-left: 110px;
+    width: 250px;
+}
+.side-bar li {
+    display: block;
+    padding-bottom: 7px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-bottom: solid 1px;
+    border-bottom-color: #777;
+}
+.side-bar .last-element {
+    border: none;
+}
+.side-bar li a {
+    text-decoration:none;
+    color: #21618C   ;
+    font-family: "Bahnschrift Condensed";
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+    transition: 0.3s;
+    display: block;
+}
+.side-bar li a:hover {
+    color: #f68e1e;
+}
+.page-content {
+    margin-left: 420px;
+}
+.title1 {
+    position: absolute;
+    top:230px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #e71839;
+}
+.title2 {
+    position: absolute;
+    top:280px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    color: #21618C;
+    font-size: 28px;
+}
+.p1 {
+    position: absolute;
+    top: 320px;
+    width: 600px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656 ;
+}
+.p2 {
+    position: absolute;
+    top: 370px;
+    height: 200px;
+    width: 600px;
+    background: #008752;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px;
+}
+.p2 ul {
+    padding-left: 20px;
+}
+h2 {
+    font-family: 'Oswald', sans-serif;
+    color: #21618C;
+    font-weight: 200;
+}
+.ques1 {
+    position: absolute;
+    top: 630px; 
+}
+.p3 {
+    position: absolute;
+    top: 670px;
+    width: 630px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.ques2 {
+    position: absolute;
+    top: 750px;
+}
+.p4 {
+     position: absolute;
+    top:785px;
+    width: 630px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.ques3 {
+     position: absolute;
+    top: 850px;
+}
+.p5 {
+    position: absolute;
+    top:880px;
+    width: 630px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.p6 {
+    position: absolute;
+    top:970px;
+    width: 630px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.ques4 {
+    position: absolute;
+    top:1120px;
+}
+.p7 {
+    position: absolute;
+    top:1150px;
+    width: 630px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.ques5 {
+    position: absolute;
+    top:1220px;
+}
+.p8 {
+    position: absolute;
+    top:1255px;
+    width: 640px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.title {
+    position: absolute;
+    top:1340px;
+}
+.p9 {
+    position: absolute;
+    top:1370px;
+    width: 640px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.p10 {
+    position: absolute;
+    top:1590px;
+    width: 640px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.p11 {
+    position: absolute;
+    top:1850px;
+    width: 640px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.footer {
+    position: absolute;
+    top:1900px;
+    left: 100px;
+
+}

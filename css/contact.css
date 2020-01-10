@@ -1,0 +1,61 @@
+.page-content {
+    margin-left: 100px;
+}
+.title1 {
+    position: absolute;
+    top:230px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #e71839;
+}
+.title2 {
+    position: absolute;
+    top:290px; 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    color: #21618C;
+    font-size: 26px;
+}
+.title3 {
+    position: absolute;
+    top:325px; 
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+    font-size: 18px;
+}
+.address {
+    position: absolute;
+    top: 345px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.mail {
+    position: absolute;
+    top: 415px;
+    font-family: 'Oswald', sans-serif;
+    color: #3498DB;
+    transition: 0.3s;
+}
+.mail:hover {
+    color: #adc429;
+}
+.num {
+    position: absolute;
+    top: 450px;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656;
+}
+.image {
+    position: absolute;
+    right: 115px;
+    top: 230px;
+}
+img {
+    width: 380px;
+}
+.footer {
+    position: absolute;
+    left: 100px;
+    top: 750px;
+    width: 84%;
+}

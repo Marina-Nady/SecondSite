@@ -1,0 +1,94 @@
+.page-content {
+    margin-left: 100px;
+}
+.title1 {
+    position: absolute;
+    top:230px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #e71839;
+}
+.title2 {
+    position: absolute;
+    top:290px; 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    color: #21618C;
+    font-size: 26px;
+}
+.p1 {
+    position:absolute;
+    top: 325px;
+    width: 83%;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656 ;
+}
+.title3 {
+    position: absolute;
+    top:380px; 
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    color: #21618C;
+    font-size: 26px;
+}
+.p2 {
+    position:absolute;
+    top: 415px;
+    width: 83%;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656 ;
+}
+.select-box {
+    position:absolute;
+    top: 490px;
+    height: 45px;
+    width: 300px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    padding: 10px;
+    background: #F2F3F4 ;
+    border-color: #D5DBDB ;
+}
+.select-box:hover {
+    background: white;
+    transition: 0.5s;
+}
+.btn1 {
+    position:absolute;
+    top: 560px;
+    height: 45px;
+    width: 140px;
+    background: #f68e1e;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+}
+.btn1:hover {
+     background: #adc429;
+}
+.btns {
+    position: relative;
+    top: 620px;
+    width: 300px;
+    height: 45px;
+}
+.btn2 {
+    position: absolute;
+    width: 50px;
+    height: 45px;
+}
+.btn3 {
+    position: absolute;
+    left: 60px;
+    width: 50px;
+    height: 45px;
+    background: #1F618D; 
+}
+.footer {
+    position: absolute;
+    top: 690px;
+    width: 84%;
+}

@@ -1,0 +1,67 @@
+/* side bar */
+.side-title {
+    font-family: "Bahnschrift Condensed";
+    color:#777   ;
+    margin-left: 120px;
+    position: absolute;
+    top: 230px;
+    font-size: 18px;    
+}
+.side-bar {
+    position: absolute;
+    top: 260px;
+    margin-left: 110px;
+    width: 250px;
+}
+.side-bar li {
+    display: block;
+    padding-bottom: 7px;
+    padding-top: 10px;
+    padding-left: 10px;
+    border-bottom: solid 1px;
+    border-bottom-color: #777;
+}
+.side-bar .last-element {
+    border: none;
+}
+.side-bar li a {
+    text-decoration:none;
+    color: #21618C   ;
+    font-family: "Bahnschrift Condensed";
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 30px;
+    transition: 0.3s;
+    display: block;
+}
+.side-bar li a:hover {
+    color: #f68e1e;
+}
+.page-content {
+    margin-left: 420px;
+}
+.title1 {
+    position: absolute;
+    top:230px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300;
+    color: #e71839;
+}
+.p1 {
+    position: relative;
+    top: 270px;
+    width: 84%;
+    font-family: 'Oswald', sans-serif;
+    color: #4D5656 ;
+}
+.title2 {
+    position: relative;
+    top: 290px;
+    width: 84%;
+    color: white;
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+    background: #008752;
+    padding: 10px;
+
+}
